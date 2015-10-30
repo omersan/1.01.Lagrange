@@ -1,5 +1,5 @@
 # 1.01.Lagrange
-Chapter 1 ~ Lagrange Interpolation
+Lagrange Interpolation
 
 
 ![equal_points](https://cloud.githubusercontent.com/assets/15114859/10849466/e59c8206-7eee-11e5-8117-26fffb8e01f7.png)
